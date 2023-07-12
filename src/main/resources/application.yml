@@ -16,7 +16,5 @@ spring:
       active-directory:
         enabled: true
         credential:
-#          client-id: <your-application-ID-of-SimpleToDoApi>
-#        app-id-uri: <your-application-ID-URI-of-SimpleToDoApi>
-          client-id: 627e444a-dda5-48ff-b561-f2e5b9f74c3e
-        app-id-uri: api://simple-todo
+          client-id: <your-application-ID-of-SimpleToDoApi>
+        app-id-uri: <your-application-ID-URI-of-SimpleToDoApi>
